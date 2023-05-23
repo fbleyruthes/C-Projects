@@ -1,4 +1,5 @@
 //By Francisco Bley Ruthes
+//Comments in portuguese
 
 // Bibliotecas
 #include <stdio.h>
